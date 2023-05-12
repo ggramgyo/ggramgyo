@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 # Seo Jae Hwa 😄
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggramgyo&count_bg=%23E9D0AF&title_bg=%236C6A6A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 🌱Git Status & Solved.ac
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggramgyo&show_icons=true&theme=onedark)
+# 🌱Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggramgyo)](https://solved.ac/ggramgyo/)
 
 # :mailbox_with_mail: Contacts
